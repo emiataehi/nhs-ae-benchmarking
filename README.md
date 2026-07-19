@@ -124,6 +124,3 @@ nhs-ae-benchmarking/
 
 Built by Emi Igein. 
 GitHub: https://github.com/emiataehi
-
-Built by Emi Igein. 
-GitHub: https://github.com/emiataehi
